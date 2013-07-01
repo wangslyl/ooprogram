@@ -1,0 +1,3 @@
+The file "OOprover" includes the implemental files for the syntax and graph-based semantics of an OO language rcos. To use the prover, you need to include rcos.thy at the begining. 
+
+The file "Examples" includes examples on using this prover for verifying refinement between OO programs. 
